@@ -1,0 +1,42 @@
+
+================================================================================
+INQUIRY SUBMISSION
+================================================================================
+Submitted At: 2025-10-26T11:18:22.925Z
+Name: Test User
+Email: test@example.com
+Phone: 1234567890
+Project Interest: Nestland Bhor
+Plot Preference: 15000-20000 sq ft
+Preferred Visit Date: 2025-11-01
+Message: This is a test inquiry
+================================================================================
+
+
+================================================================================
+INQUIRY SUBMISSION
+================================================================================
+Submitted At: 2025-10-26T11:18:31.012Z
+Name: Another User
+Email: another@test.com
+Phone: 9876543210
+Project Interest: Nestland Velhe
+Plot Preference: 20000+ sq ft
+Preferred Visit Date: 2025-11-05
+Message: I am interested in a larger plot
+================================================================================
+
+
+================================================================================
+INQUIRY SUBMISSION
+================================================================================
+Submitted At: 2025-10-26T11:54:14.277Z
+Name: Test User
+Email: test@example.com
+Phone: 1234567890
+Project Interest: Nestland Bhor
+Plot Preference: Not specified
+Preferred Visit Date: Not specified
+Message: Test submission
+================================================================================
+
